@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "judul": "Berita Pertama dengan Judul yang Panjang",
+      "kategori" : "Olahraga", 
+      "waktu_diupload": "1 hari yang lalu",
+      "isi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ...",
+      "gambar": "https://picsum.photos/id/10/600/400"
+    },
+    {
+      "id": 2,
+      "judul": "Berita Kedua tentang Peristiwa Terbaru di Kota",
+      "kategori" : "Olahraga",
+      "waktu_diupload": "2 hari yang lalu",
+      "isi": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse ...",
+      "gambar": "https://picsum.photos/id/20/600/400"
+    },
+    {
+      "id": 3,
+      "judul": "Berita Ketiga mengenai Isu Ekonomi Global Saat Ini",
+      "kategori" : "Politik",
+      "waktu_diupload": "3 hari yang lalu",
+      "isi": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia ...",
+      "gambar": "https://picsum.photos/id/30/600/400"
+    },
+    {
+      "id": 4,
+      "judul": "Berita Keempat tentang Kebijakan Baru Pemerintah",
+      "kategori" : "Politik",
+      "waktu_diupload": "4 hari yang lalu",
+      "isi": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem ...",
+      "gambar": "https://picsum.photos/id/40/600/400"
+    },
+    {
+      "id": 5,
+      "judul": "Berita Kelima tentang Penemuan Teknologi Terbaru",
+      "kategori" : "Teknologi",
+      "waktu_diupload": "5 hari yang lalu",
+      "isi": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi ...",
+      "gambar": "https://picsum.photos/id/50/600/400"
+    },
+    {
+      "id": 6,
+      "judul": "Berita Keenam tentang Perkembangan Dunia Olahraga",
+      "kategori" : "Olahraga",
+      "waktu_diupload": "6 hari yang lalu",
+      "isi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ...",
+      "gambar": "https://picsum.photos/id/60/600/400"
+    },
+    {
+      "id": 7,
+      "judul": "Berita Ketujuh tentang Situasi Politik Internasional",
+      "kategori" : "Politik",
+      "waktu_diupload": "7 hari yang lalu",
+      "isi": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse ...",
+      "gambar": "https://picsum.photos/id/70/600/400"
+    },
+    {
+      "id": 8,
+      "judul": "Berita Kedelapan tentang Perubahan Iklim Global",
+      "kategori" : "Politik",
+      "waktu_diupload": "8 hari yang lalu",
+      "isi": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia ...",
+      "gambar": "https://picsum.photos/id/80/600/400"
+    },
+    {
+      "id": 9,
+      "judul": "Berita Kesembilan tentang Tren Baru di Dunia Fashion",
+      "kategori" : "Hiburan",
+      "waktu_diupload": "9 hari yang lalu",
+      "isi": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem ...",
+      "gambar": "https://picsum.photos/id/90/600/400"
+    },
+    {
+      "id": 10,
+      "judul": "Berita Kesepuluh tentang Penemuan Medis yang Revolusioner",
+      "kategori" : "Politik",
+      "waktu_diupload": "10 hari yang lalu",
+      "isi": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi ...",
+      "gambar": "https://picsum.photos/id/100/600/400"
+    },
+    {
+      "id": 11,
+      "judul": "Berita Kesebelas tentang Pertumbuhan Ekonomi di Asia",
+      "kategori" : "Politik",
+      "waktu_diupload": "11 hari yang lalu",
+      "isi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ...",
+      "gambar": "https://picsum.photos/id/110/600/400"
+    },
+    {
+      "id": 12,
+      "judul": "Berita Keduabelas tentang Perkembangan Pendidikan di Dunia",
+      "kategori" : "Politik",
+      "waktu_diupload": "12 hari yang lalu",
+      "isi": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse ...",
+      "gambar": "https://picsum.photos/id/120/600/400"
+    }
+  ]
+  
